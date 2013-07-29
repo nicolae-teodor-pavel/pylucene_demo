@@ -3,7 +3,7 @@ pylucene_demo
 
 ####a simple pylucene_demo 
 
-this demo contains two file: luceneInx.py and luceneQryMain.py
+this demo contains two files: luceneInx.py and luceneQryMain.py
 luceneInx.py is used for create a index of files
 luceneQryMain.py ask for a query
 
